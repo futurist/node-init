@@ -1,4 +1,4 @@
-FROM node:7
+FROM node
 
 LABEL name="node-init" \
 version="1.0" \
